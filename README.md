@@ -46,8 +46,8 @@ ELearningSystem/
 ## How to run
 
 ### In Eclipse
-1. `File > New > Java Project`, name it `ELearningSystem`.
-2. Copy the `model` and `main` folders from `src/` into the project's `src` folder.
+1. Clone or extract the repository.
+2. `File > Import > General > Existing Projects into Workspace`, choose the project folder, click `Finish`.
 3. Right-click `src/main/Main.java` → `Run As > Java Application`.
 4. Use the console at the bottom: type a menu number and press Enter.
 
